@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "285106402261",
+    "project_id": "akcontacts-c9d1e",
+    "storage_bucket": "akcontacts-c9d1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285106402261:android:7a28954c18aaab2e39835c",
+        "android_client_info": {
+          "package_name": "com.akki.acontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285106402261-d0rkr004qm7qmdi7m2rk5rcfcndsmqq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwwByfW49hxNpqAvoH4qOz2BHCBr-hx7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285106402261-d0rkr004qm7qmdi7m2rk5rcfcndsmqq2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285106402261-i51iv444dmjonvbmhghc0gnvm6772ta7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.akki.acontacts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
